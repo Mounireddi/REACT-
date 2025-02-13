@@ -1,0 +1,69 @@
+.teaching-methodology {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .heading {
+    
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4 ;
+    color: #ffffff;
+  }
+  
+  .header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    
+  }
+  
+  .header p {
+    font-size: 1.2rem;
+    color: rgb(196, 16, 16) !important;
+  }
+  
+  .methodologies {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .methodology-card {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px #fff(253, 250, 250, 0.1);
+    max-width: 300px;
+    overflow: hidden;
+    text-align: center;
+  }
+  
+  .media {
+    position: relative;
+  }
+  
+  .method-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .method-video {
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .method-title {
+    font-size: 1.5rem;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .method-description {
+    font-size: 1rem;
+    color: #666;
+    padding: 0 10px 20px;
+  }
+  
